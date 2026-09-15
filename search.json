@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is a template page for your site. Edit this file to add information about your survey template, your project, or your organization.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#features",
+    "href": "about.html#features",
+    "title": "About",
+    "section": "Features",
+    "text": "Features\n\nClean, modern design inspired by Real World Data Science\nFully customizable color scheme\nResponsive layout that works on all devices\nBuilt with Quarto for easy maintenance\nProfessional typography with Oswald and Montserrat fonts",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#getting-started",
+    "href": "about.html#getting-started",
+    "title": "About",
+    "section": "Getting Started",
+    "text": "Getting Started\n\nCustomize the _quarto.yml file with your site title, URLs, and navigation\nEdit index.qmd to modify the homepage\nUpdate the color scheme by editing rwds.css\nAdd your own pages by creating new .qmd files",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "about.html#learn-more",
+    "href": "about.html#learn-more",
+    "title": "About",
+    "section": "Learn More",
+    "text": "Learn More\nVisit the Quarto documentation to learn more about building websites with Quarto.",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Get in touch with us! Add your contact information and details here.",
+    "crumbs": [
+      "About",
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "Contact",
+    "section": "Contact Information",
+    "text": "Contact Information\n\nEmail: your-email@example.com\nGitHub: @yourhandle\nTwitter: @yourhandle",
+    "crumbs": [
+      "About",
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "contact.html#contact-form",
+    "href": "contact.html#contact-form",
+    "title": "Contact",
+    "section": "Contact Form",
+    "text": "Contact Form\nYou can add a contact form here using a service like Formspree, Netlify Forms, or your own backend.",
+    "crumbs": [
+      "About",
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "contact.html#other-ways-to-reach-us",
+    "href": "contact.html#other-ways-to-reach-us",
+    "title": "Contact",
+    "section": "Other Ways to Reach Us",
+    "text": "Other Ways to Reach Us\n\nFile an issue on GitHub\nContribute to the project\nShare feedback and suggestions",
+    "crumbs": [
+      "About",
+      "Contact"
+    ]
+  }
+]
