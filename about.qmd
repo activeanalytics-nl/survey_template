@@ -1,0 +1,24 @@
+---
+title: About
+---
+
+This is a template page for your site. Edit this file to add information about your survey template, your project, or your organization.
+
+## Features
+
+- Clean, modern design inspired by Real World Data Science
+- Fully customizable color scheme
+- Responsive layout that works on all devices
+- Built with Quarto for easy maintenance
+- Professional typography with Oswald and Montserrat fonts
+
+## Getting Started
+
+1. Customize the `_quarto.yml` file with your site title, URLs, and navigation
+2. Edit `index.qmd` to modify the homepage
+3. Update the color scheme by editing `rwds.css`
+4. Add your own pages by creating new `.qmd` files
+
+## Learn More
+
+Visit the [Quarto documentation](https://quarto.org) to learn more about building websites with Quarto.

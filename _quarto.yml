@@ -1,0 +1,65 @@
+project:
+  type: website
+
+website:
+  title: "Survey Template"
+  # Add your logo image path here (optional)
+  # image: images/logo.png
+  # favicon: images/favicon.png
+  twitter-card:
+    site: "@yourhandle"
+  open-graph: true
+  site-url: "http://localhost:5000"
+  repo-url: "https://github.com/yourusername/survey_template"
+  repo-actions: [edit, issue]
+  
+  navbar:
+    toggle-position: right
+    background: "#f0eeeb"
+    logo: images/logo.png
+    logo-alt: "Survey Template"
+    title: false
+    collapse-below: lg
+    right:
+      - text: "About"
+        href: about.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+  sidebar: 
+    - title: "Navigation"
+      contents:
+        - index.qmd
+        - about.qmd
+        - contact.qmd
+
+  page-navigation: true
+
+  back-to-top-navigation: false
+
+  page-footer:
+    background: "#000000"
+    left: |
+      Copyright &copy; 2026
+    center:
+      - href: https://github.com
+        icon: github
+        aria-label: GitHub
+      - href: https://twitter.com
+        icon: twitter-x
+        aria-label: Twitter/X
+    right: |
+      Built with Quarto
+
+format:
+  html:
+    theme: [lux, rwds.scss]
+    css: rwds.css
+    toc: true
+    grid:
+      sidebar-width: 0px
+      body-width: 1000px
+      margin-width: 250px
+
+execute: 
+  freeze: auto

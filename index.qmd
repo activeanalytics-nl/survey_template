@@ -1,0 +1,110 @@
+---
+pagetitle: "Survey Template"
+page-layout: custom
+section-divs: false
+editor: source
+sidebar: false
+search: false
+repo-actions: false
+description: | 
+  A customizable survey template homepage built with Quarto.
+image: images/logo.png
+toc: false
+---
+
+::: {.content-container}
+::: {.top-story .purple-background}
+
+::: grid
+::: {.g-col-12 .g-col-lg-4 .top-story-text}
+## Welcome
+Get started with this modern, customizable survey template. Build professional surveys with beautiful design.
+:::
+::: {.g-col-12 .g-col-lg-8 .top-story-img}
+![](https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80)
+:::
+:::
+
+:::
+:::
+
+::: {.header-text} 
+::: {.content-container}
+::: {.header-block}
+This is a clean, modern homepage layout inspired by **Real World Data Science**. Customize the content, colors, and structure to match your project needs. Built entirely with Quarto for easy deployment and maintenance.
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+
+## Getting Started
+
+Create your first survey section by editing this page and adding your own content. Use the grid system below to organize your content sections.
+
+:::
+:::
+
+::: {.pullout-text}
+::: {.pullout-container}
+::: {.pullout-block .black-background}
+![](images/quote-purple.png){width="100px"}
+
+## Key Features
+Modern responsive design, customizable color scheme, built-in typography, and seamless Quarto integration.
+
+::: {.button}
+[Learn more](#)
+:::
+
+:::
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+
+## Section One
+Add your first content section here. This layout uses a simple, clean design that scales beautifully across devices.
+
+:::
+:::
+
+::: {.content-container}
+::: {.listing-block}
+
+## Section Two
+Add your second content section here. Mix text, images, and other media to create engaging content.
+
+:::
+:::
+
+::: {.footer-text}
+::: {.footer-container .black-background}
+::: {.footer-block}
+::: grid
+
+::: {.g-col-12 .g-col-md-4}
+### About
+Learn more about this template and how to customize it for your needs.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Resources
+[Documentation](#)\
+[Examples](#)\
+[FAQ](#)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Connect
+[GitHub](#)\
+[Email](#)\
+[Support](#)
+:::
+
+:::
+:::
+:::
+:::

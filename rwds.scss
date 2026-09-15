@@ -1,0 +1,42 @@
+// Real World Data Science Theme (RWDS) SCSS
+// Customized for Survey Template
+
+/*-- scss:defaults --*/
+
+// Color Variables
+$black: #000000;
+$white: #ffffff;
+$light-bg: #f0eeeb;
+$purple: #939bc9;
+$text-dark: #000000;
+
+// Font Variables
+$font-family-oswald: 'Oswald', sans-serif;
+$font-family-montserrat: 'Montserrat', sans-serif;
+
+/*-- scss:rules --*/
+
+body {
+  font-family: $font-family-montserrat;
+  background-color: $light-bg;
+}
+
+// Custom typography can be added here
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-family-oswald;
+}
+
+// Links
+a {
+  color: $purple;
+  
+  &:hover {
+    color: $text-dark;
+  }
+}
+
+// Cards and containers
+.card {
+  border: none;
+  background-color: $light-bg;
+}

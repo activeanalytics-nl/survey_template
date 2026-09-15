@@ -1,0 +1,21 @@
+---
+title: Contact
+---
+
+Get in touch with us! Add your contact information and details here.
+
+## Contact Information
+
+- Email: your-email@example.com
+- GitHub: [@yourhandle](https://github.com/yourhandle)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+## Contact Form
+
+You can add a contact form here using a service like Formspree, Netlify Forms, or your own backend.
+
+## Other Ways to Reach Us
+
+- File an issue on [GitHub](https://github.com)
+- Contribute to the project
+- Share feedback and suggestions
