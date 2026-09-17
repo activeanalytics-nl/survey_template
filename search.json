@@ -223,28 +223,44 @@
     "href": "03_satisfaction.html",
     "title": "Overall satisfaction",
     "section": "",
-    "text": "Breakdown of gender of children."
+    "text": "Breakdown of gender of children.",
+    "crumbs": [
+      "Demographics",
+      "Overall satisfaction"
+    ]
   },
   {
     "objectID": "03_satisfaction.html#gender",
     "href": "03_satisfaction.html#gender",
     "title": "Overall satisfaction",
     "section": "",
-    "text": "Breakdown of gender of children."
+    "text": "Breakdown of gender of children.",
+    "crumbs": [
+      "Demographics",
+      "Overall satisfaction"
+    ]
   },
   {
     "objectID": "03_satisfaction.html#age",
     "href": "03_satisfaction.html#age",
     "title": "Overall satisfaction",
     "section": "Age",
-    "text": "Age\nAge of children."
+    "text": "Age\nAge of children.",
+    "crumbs": [
+      "Demographics",
+      "Overall satisfaction"
+    ]
   },
   {
     "objectID": "03_satisfaction.html#disabilities",
     "href": "03_satisfaction.html#disabilities",
     "title": "Overall satisfaction",
     "section": "Disabilities",
-    "text": "Disabilities\nThe proportion of children with disabilities."
+    "text": "Disabilities\nThe proportion of children with disabilities.",
+    "crumbs": [
+      "Demographics",
+      "Overall satisfaction"
+    ]
   },
   {
     "objectID": "02_demographics.html",
