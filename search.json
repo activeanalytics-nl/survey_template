@@ -1,52 +1,33 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "LICENCE.html",
+    "href": "LICENCE.html",
+    "title": "Licence",
     "section": "",
-    "text": "This is a template page for your site. Edit this file to add information about your survey template, your project, or your organization.",
-    "crumbs": [
-      "About"
-    ]
+    "text": "The website realworlddatascience.net (“the website”) and the “Real World Data Science” and “RWDS” brands and logos are copyright © Royal Statistical Society.\nCopyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page, e.g.:\n\n\n\nExample of copyright and licence information from an RWDS article.\n\n\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
   },
   {
-    "objectID": "about.html#features",
-    "href": "about.html#features",
-    "title": "About",
-    "section": "Features",
-    "text": "Features\n\nClean, modern design inspired by Real World Data Science\nFully customizable color scheme\nResponsive layout that works on all devices\nBuilt with Quarto for easy maintenance\nProfessional typography with Oswald and Montserrat fonts",
-    "crumbs": [
-      "About"
-    ]
+    "objectID": "LICENCE.html#content",
+    "href": "LICENCE.html#content",
+    "title": "Licence",
+    "section": "",
+    "text": "The website realworlddatascience.net (“the website”) and the “Real World Data Science” and “RWDS” brands and logos are copyright © Royal Statistical Society.\nCopyright and licence terms for published articles and any associated videos, images, or other material can be found at the end of each article page, e.g.:\n\n\n\nExample of copyright and licence information from an RWDS article.\n\n\nWe make every reasonable effort to locate, contact and acknowledge copyright owners and wish to be informed by any copyright owners who are not properly identified and acknowledged so that we may make any necessary corrections.\nWhere licence terms for individual articles, videos, images and other published content permit republication, you may do so in accordance with the stated terms of the respective licence(s).\nYou are not permitted to republish the website in its entirety."
   },
   {
-    "objectID": "about.html#getting-started",
-    "href": "about.html#getting-started",
-    "title": "About",
-    "section": "Getting Started",
-    "text": "Getting Started\n\nCustomize the _quarto.yml file with your site title, URLs, and navigation\nEdit index.qmd to modify the homepage\nUpdate the color scheme by editing rwds.css\nAdd your own pages by creating new .qmd files",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "about.html#learn-more",
-    "href": "about.html#learn-more",
-    "title": "About",
-    "section": "Learn More",
-    "text": "Learn More\nVisit the Quarto documentation to learn more about building websites with Quarto.",
-    "crumbs": [
-      "About"
-    ]
+    "objectID": "LICENCE.html#software-and-services",
+    "href": "LICENCE.html#software-and-services",
+    "title": "Licence",
+    "section": "Software and services",
+    "text": "Software and services\nSource code and files for the website are available from GitHub. Use of our GitHub repository is governed by the Contributor Covenant Code of Conduct.\nThe website is built using Quarto, an open-source scientific and technical publishing system developed by Posit. Quarto source code and software licences are available from GitHub.\nReal World Data Science is hosted by GitHub Pages.\nThe website uses Google Analytics 4 for web analytics reporting.\nFonts used on Real World Data Science are served by the Google Fonts API. This is to improve site loading speeds and font compatibility across devices. Review the Google Fonts Privacy and Data Collection statement.\nUser comments and reaction functionality is provided by giscus, a comments system powered by GitHub Discussions. Use of this comment functionality is governed by the Contributor Covenant Code of Conduct."
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Get in touch with us! Add your contact information and details here.",
+    "text": "Contact details",
     "crumbs": [
-      "About",
+      "Demographics",
       "Contact"
     ]
   },
@@ -55,32 +36,21 @@
     "href": "contact.html#contact-information",
     "title": "Contact",
     "section": "Contact Information",
-    "text": "Contact Information\n\nEmail: your-email@example.com\nGitHub: @yourhandle\nTwitter: @yourhandle",
+    "text": "Contact Information\n\nEmail: person@tocontact.com\nGitHub: @yourhandle\nSocials: @yourhandle",
     "crumbs": [
-      "About",
+      "Demographics",
       "Contact"
     ]
   },
   {
-    "objectID": "contact.html#contact-form",
-    "href": "contact.html#contact-form",
-    "title": "Contact",
-    "section": "Contact Form",
-    "text": "Contact Form\nYou can add a contact form here using a service like Formspree, Netlify Forms, or your own backend.",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "More info",
     "crumbs": [
-      "About",
-      "Contact"
-    ]
-  },
-  {
-    "objectID": "contact.html#other-ways-to-reach-us",
-    "href": "contact.html#other-ways-to-reach-us",
-    "title": "Contact",
-    "section": "Other Ways to Reach Us",
-    "text": "Other Ways to Reach Us\n\nFile an issue on GitHub\nContribute to the project\nShare feedback and suggestions",
-    "crumbs": [
-      "About",
-      "Contact"
+      "Demographics",
+      "About"
     ]
   }
 ]
