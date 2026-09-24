@@ -219,33 +219,33 @@
     ]
   },
   {
-    "objectID": "03_satisfaction.html",
-    "href": "03_satisfaction.html",
+    "objectID": "03_satisfaction.html#categories",
+    "href": "03_satisfaction.html#categories",
     "title": "Overall satisfaction",
-    "section": "",
-    "text": "Guages",
+    "section": "Categories",
+    "text": "Categories",
     "crumbs": [
       "Demographics",
       "Overall satisfaction"
     ]
   },
   {
-    "objectID": "03_satisfaction.html#guage",
-    "href": "03_satisfaction.html#guage",
+    "objectID": "03_satisfaction.html#disability",
+    "href": "03_satisfaction.html#disability",
     "title": "Overall satisfaction",
-    "section": "",
-    "text": "Guages",
+    "section": "Disability",
+    "text": "Disability",
     "crumbs": [
       "Demographics",
       "Overall satisfaction"
     ]
   },
   {
-    "objectID": "03_satisfaction.html#two-numbers",
-    "href": "03_satisfaction.html#two-numbers",
+    "objectID": "03_satisfaction.html#ethnicity",
+    "href": "03_satisfaction.html#ethnicity",
     "title": "Overall satisfaction",
-    "section": "Two numbers",
-    "text": "Two numbers\nOverall 2",
+    "section": "Ethnicity",
+    "text": "Ethnicity",
     "crumbs": [
       "Demographics",
       "Overall satisfaction"
@@ -287,6 +287,16 @@
     "title": "Demographics",
     "section": "Disabilities",
     "text": "Disabilities\nThe proportion of children with disabilities.",
+    "crumbs": [
+      "Demographics"
+    ]
+  },
+  {
+    "objectID": "02_demographics.html#ethnicity",
+    "href": "02_demographics.html#ethnicity",
+    "title": "Demographics",
+    "section": "Ethnicity",
+    "text": "Ethnicity\nBreakdown of ethnicity by respondent type.\n\n  \n    Primary\n    \n  \n  \n    Secondary\n    \n  \n  \n    Parent",
     "crumbs": [
       "Demographics"
     ]
