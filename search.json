@@ -229,7 +229,7 @@
     "href": "03_satisfaction.html#ethnicity",
     "title": "Overall satisfaction",
     "section": "Ethnicity",
-    "text": "Ethnicity",
+    "text": "Ethnicity\n\n  \n    Primary\n    \n  \n  \n    Secondary\n    \n  \n  \n    Parent",
     "crumbs": [
       "Demographics",
       "Overall satisfaction"
@@ -402,47 +402,25 @@
     ]
   },
   {
-    "objectID": "10_correlations_out_of_school.html",
-    "href": "10_correlations_out_of_school.html",
-    "title": "Overall satisfaction",
-    "section": "",
-    "text": "Breakdown of gender of children.",
-    "crumbs": [
-      "Demographics",
-      "Overall satisfaction"
-    ]
-  },
-  {
-    "objectID": "10_correlations_out_of_school.html#gender",
-    "href": "10_correlations_out_of_school.html#gender",
-    "title": "Overall satisfaction",
-    "section": "",
-    "text": "Breakdown of gender of children.",
-    "crumbs": [
-      "Demographics",
-      "Overall satisfaction"
-    ]
-  },
-  {
     "objectID": "10_correlations_out_of_school.html#age",
     "href": "10_correlations_out_of_school.html#age",
-    "title": "Overall satisfaction",
+    "title": "Correlation between different questions",
     "section": "Age",
     "text": "Age\nAge of children.",
     "crumbs": [
       "Demographics",
-      "Overall satisfaction"
+      "Correlation between different questions"
     ]
   },
   {
     "objectID": "10_correlations_out_of_school.html#disabilities",
     "href": "10_correlations_out_of_school.html#disabilities",
-    "title": "Overall satisfaction",
+    "title": "Correlation between different questions",
     "section": "Disabilities",
     "text": "Disabilities\nThe proportion of children with disabilities.",
     "crumbs": [
       "Demographics",
-      "Overall satisfaction"
+      "Correlation between different questions"
     ]
   },
   {
